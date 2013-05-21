@@ -1,0 +1,16 @@
+<% include ../header %>
+<% include chat_script %>
+<header class="row-fluid text-center">
+  <h2>Ntalk - Chat</h2>
+</header>
+<section class="row-fluid">
+  <div class="well span6 offset3">
+    <pre id="chat" class="pre-scrollable" style="width:auto;height:250px;"></pre>
+    <div class="input-append">
+      <input type="text" id="mensagem" class="input-xlarge" placeholder="Digite sua mensagem">
+      <button class="btn btn-success" onclick="enviar();">Enviar</button>  
+    </div>
+  </div>
+</section>
+<% include ../exit %>
+<% include ../footer %>

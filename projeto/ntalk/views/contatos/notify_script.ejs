@@ -1,0 +1,14 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io.connect('http://localhost:3000');
+  var notify = function(email, status, msg) {
+    var label = "<span class='label label-"+status+"'>"+msg+"</span>";
+    document.getElementById(email).innerHTML = label;
+  }
+  socket.on('notifyOnlines', function(email) {
+    notify(email, 'success', 'Online');
+  });
+  socket.on('notifyMessage', function(email) {
+    notify(email, 'important', 'Mensagem');
+  });
+</script>

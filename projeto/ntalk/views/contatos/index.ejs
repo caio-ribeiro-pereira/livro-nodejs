@@ -1,0 +1,41 @@
+<% include ../header %>
+<header class="row-fluid text-center">
+  <h2>Ntalk - Agenda de contatos</h2>
+</header>
+<section class="row-fluid">
+  <section class="span12">
+    <form action="/contato" method="post" class="well form-inline">
+      <input type="text" name="contato[nome]" placeholder="Nome">
+      <input type="text" name="contato[email]" placeholder="E-mail">
+      <button type="submit" class="btn btn-primary">Cadastrar</button>
+    </form>
+    <table class="table well">
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>E-mail</th>
+          <th>Status</th>
+          <th>Ação</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% contatos.forEach(function(contato) { %>
+          <tr>
+            <td><%- contato.nome %></td>
+            <td><%- contato.email %></td>
+            <td id="<%- contato.email %>">
+              <span class="label">Offline</span>
+            </td>
+            <td id="<%- contato.email %>">
+              <a href="/contato/<%- contato._id %>" class="btn btn-info">Detalhes</a>
+              <a href="/chat/<%- contato.email %>" class="btn btn-inverse">Conversar</a>
+            </td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </section>
+</section>
+<% include notify_script %>
+<% include ../exit %>
+<% include ../footer %>
