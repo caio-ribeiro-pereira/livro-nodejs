@@ -6,9 +6,8 @@ var express = require('express')
   , server = require('http').createServer(app)
   , mongoose = require('mongoose');
 
-app.io = require('socket.io').listen(server)
-app.db = mongoose.connect('mongodb://localhost/ntalk');
-app.onlines = {};
+global.io = require('socket.io').listen(server);
+global.db = mongoose.connect('mongodb://localhost/ntalk');
 
 const SECRET = 'Ntalk'
     , KEY = 'ntalk.sid';
@@ -33,7 +32,7 @@ app.configure(function(){
   app.use(error.serverError);
 });
 
-app.io.set('authorization', function(data, accept) {
+io.set('authorization', function(data, accept) {
   cookie(data, {}, function(err) {
     var sessionID = data.signedCookies[KEY];
     store.get(sessionID, function(err, session) {

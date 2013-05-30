@@ -14,5 +14,5 @@ module.exports = function(app) {
   , contatos: [contato]
   });
 
-  return app.db.model('usuarios', usuario);
+  return db.model('usuarios', usuario);
 };

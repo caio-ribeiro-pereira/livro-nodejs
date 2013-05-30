@@ -21,8 +21,7 @@ module.exports = function(app) {
           res.redirect('/contatos');
         
         } else {
-          Usuario.create(req.body.usuario)
-                 .exec(function(erro, usuario) {
+          Usuario.create(req.body.usuario, function(erro, usuario) {
             if(erro){
               req.flash('warning','Preencha os campos.');
               res.redirect('/');

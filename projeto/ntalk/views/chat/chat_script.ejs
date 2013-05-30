@@ -1,11 +1,17 @@
 <script src="/socket.io/socket.io.js"></script>
 <script>
   var socket = io.connect('http://localhost:3000');
-  socket.on('toClient', function (msg) {
-    document.getElementById('chat').innerHTML += msg;
+  
+  socket.emit('join', window.location.search);
+  
+  socket.on('send-client', function (msg) {
+    var chat = document.getElementById('chat');
+    chat.innerHTML += msg;
   });
+  
   var enviar = function() {
-    var mensagem = document.getElementById('mensagem').value;
-    socket.emit('toServer', mensagem);
+    var msg = document.getElementById('mensagem');
+    socket.emit('send-server', msg.value);
+    msg.value = '';
   };
 </script>

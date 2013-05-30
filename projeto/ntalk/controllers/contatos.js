@@ -5,7 +5,6 @@ module.exports = function(app) {
   var ContatoController = {
 
     index: function(req, res) {
-      console.log(app.onlines);
       var _id = req.session.usuario._id;
       Usuario.findById(_id, function(erro, usuario) {
         var contatos = usuario.contatos;

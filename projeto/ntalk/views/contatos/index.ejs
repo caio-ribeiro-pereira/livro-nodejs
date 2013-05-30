@@ -23,12 +23,12 @@
           <tr>
             <td><%- contato.nome %></td>
             <td><%- contato.email %></td>
-            <td id="<%- contato.email %>">
-              <span class="label">Offline</span>
+            <td>
+              <span id="notify_<%- contato.email %>" class="label">Offline</span>
             </td>
-            <td id="<%- contato.email %>">
+            <td>
               <a href="/contato/<%- contato._id %>" class="btn btn-info">Detalhes</a>
-              <a href="/chat/<%- contato.email %>" class="btn btn-inverse">Conversar</a>
+              <a href="/chat/<%- contato.email %>" id="chat_<%- contato.email %>" class="btn btn-inverse">Conversar</a>
             </td>
           </tr>
         <% }) %>
