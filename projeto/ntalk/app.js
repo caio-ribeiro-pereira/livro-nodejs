@@ -1,16 +1,16 @@
 var express = require('express')
   , app = express()
-  , error = require('./error')
   , load = require('express-load')
   , flash = require('connect-flash')
   , server = require('http').createServer(app)
-  , mongoose = require('mongoose');
+  , error = require('./middleware/error')
+  , dbConnect = require('./middleware/db-connect')
+;
 
 global.io = require('socket.io').listen(server);
-global.db = mongoose.connect('mongodb://localhost/ntalk');
+global.db = dbConnect();
 
-const SECRET = 'Ntalk'
-    , KEY = 'ntalk.sid';
+const SECRET = 'Ntalk', KEY = 'ntalk.sid';
 
 var cookie = express.cookieParser(SECRET)
   , store = new express.session.MemoryStore()
@@ -18,19 +18,17 @@ var cookie = express.cookieParser(SECRET)
                              , key: KEY
                              , store: store});
 
-app.configure(function(){
-  app.set('views', __dirname + '/views');
-  app.set('view engine', 'ejs');
-  app.use(cookie);
-  app.use(session);
-  app.use(express.bodyParser());
-  app.use(express.methodOverride());
-  app.use(flash());
-  app.use(app.router);
-  app.use(express.static(__dirname + '/public'));
-  app.use(error.notFound);
-  app.use(error.serverError);
-});
+app.set('views', __dirname + '/views');
+app.set('view engine', 'ejs');
+app.use(cookie);
+app.use(session);
+app.use(express.bodyParser());
+app.use(express.methodOverride());
+app.use(flash());
+app.use(app.router);
+app.use(express.static(__dirname + '/public'));
+app.use(error.notFound);
+app.use(error.serverError);
 
 io.set('authorization', function(data, accept) {
   cookie(data, {}, function(err) {
@@ -55,3 +53,5 @@ load('models')
 server.listen(3000, function(){
   console.log("Rodando Ntalk.");
 });
+
+module.exports = app;

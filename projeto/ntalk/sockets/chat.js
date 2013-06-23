@@ -1,7 +1,6 @@
 module.exports = function(app) {
 
   var crypto = require('crypto')
-    , md5 = crypto.createHash('md5')
     , sockets = io.sockets;
 
   sockets.on('connection', function (client) {
@@ -22,10 +21,10 @@ module.exports = function(app) {
       if(sala){
         sala = sala.replace('?','');
       } else {
-        var timestamp = new Date().getTime();
-        sala = md5.digest(timestamp);
+        var timestamp = new Date().toString();
+        var md5 = crypto.createHash('md5');
+        sala = md5.update(timestamp).digest('hex');
       }
-      console.log(sala);
       client.set('sala', sala);
       client.join(sala);
 

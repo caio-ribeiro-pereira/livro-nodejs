@@ -48,14 +48,13 @@ module.exports = function(app) {
 
     update: function(req, res) {
       var _id = req.session.usuario._id;
-      var contatoID = req.params.id;
-      var contato = req.body.contato;
-      var where = {_id: _id, "contatos._id": contatoID};
-      var params = {"contatos.$.nome": contato.nome
-                   ,"contatos.$.email": contato.email};
-      var set = {$set: params};
-      Usuario.update(where, set, function(erro, afetados) {
-        res.redirect('/contatos');  
+      Usuario.findById(_id, function(erro, usuario) {
+        var contatoID = req.params.id;
+        var contato = usuario.contatos.id(contatoID);
+        contato.nome = req.body.contato.nome;
+        contato.email = req.body.contato.email;
+        usuario.save();
+        res.redirect('/contatos');
       });
     },
 

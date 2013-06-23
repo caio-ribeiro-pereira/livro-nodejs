@@ -1,0 +1,3 @@
+--require should
+--report spec
+--slow 20
