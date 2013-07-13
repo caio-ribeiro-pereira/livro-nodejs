@@ -4,26 +4,21 @@ module.exports = function(app) {
 
   var HomeController = {
     index: function(req, res) {
-      var resultado = {mensagem: req.flash('warning')};
-      res.render('home/index', resultado);
+      res.render('home/index');
     },
 
     login: function(req, res) {
-      Usuario.findOne(req.body.usuario)
+      var query = {email: req.body.usuario.email};
+      Usuario.findOne(query)
              .select('nome email')
              .exec(function(erro, usuario){
-        if(erro){
-          req.flash('warning','Preencha os campos.');
-          res.redirect('/');
-        
-        } else if (usuario) {
+        if (usuario) {
           req.session.usuario = usuario;
           res.redirect('/contatos');
         
         } else {
           Usuario.create(req.body.usuario, function(erro, usuario) {
             if(erro){
-              req.flash('warning','Preencha os campos.');
               res.redirect('/');
             }else{
               req.session.usuario = usuario;

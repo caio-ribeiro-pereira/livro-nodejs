@@ -1,8 +1,5 @@
 var app = require('../app')
-  , sinon = require('sinon')
   , request = require('supertest')(app);
-
-var contato = {contato: {nome: 'Teste', email: 'teste@teste'}};
 
 describe('No controller contatos', function() {
 
@@ -58,14 +55,12 @@ describe('No controller contatos', function() {
   });
 
   describe('o usuario logado', function() {
-    
-    var mongoose = require('mongoose')
-      , usuario = require('../models/usuario')
-      , login = {usuario: {nome: 'Teste', email: 'teste@teste'}}
+
+    var login = {usuario: {nome: 'Teste', email: 'teste@teste',}}
+      , contato = {contato: {nome: 'Teste', email: 'teste@teste'}}
       , cookie;
 
     beforeEach(function(done) {
-      
       request.post('/entrar')
              .send(login)
              .expect(200)
@@ -92,25 +87,5 @@ describe('No controller contatos', function() {
         done();
       });
     });
-
-    it('deve ir para rota /contatos ao fazer PUT /contato/1', function(done){
-      var req = request.put('/contato/1');
-      req.cookies = cookie;
-      req.send(contato).end(function(err, res) {
-        res.headers.location.should.eql('/contatos');
-        done();
-      });
-    });
-
-    it('deve retornar status 200 ao fazer GET /contato/1', function(done){
-      var req = request.get('/contato/1');
-      req.cookies = cookie;
-      req.end(function(err, res) {
-        res.status.should.eql(200);
-        done();
-      });
-    });
-
   });
-
 });

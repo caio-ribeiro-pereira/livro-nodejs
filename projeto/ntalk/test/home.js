@@ -19,22 +19,22 @@ describe('No controller home', function() {
     });
   });
   
+  it('deve ir para rota / ao fazer POST /entrar', function(done){
+    var loginVazio = {usuario: {nome: '', email: ''}};
+    request.post('/entrar')
+           .send(loginVazio)
+           .end(function(err, res){
+      res.headers.location.should.eql('/');
+      done();
+    });
+  });
+
   it('deve ir para rota /contatos ao fazer POST /entrar', function(done){
     var login = {usuario: {nome: 'Teste', email: 'teste@teste'}};
     request.post('/entrar')
            .send(login)
            .end(function(err, res){
       res.headers.location.should.eql('/contatos');
-      done();
-    });
-  });
-  
-  it('deve ir para rota / ao fazer POST /entrar', function(done){
-    var login = {usuario: {nome: '', email: ''}};
-    request.post('/entrar')
-           .send(login)
-           .end(function(err, res){
-      res.headers.location.should.eql('/');
       done();
     });
   });

@@ -3,20 +3,22 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "NODE_ENV=development node app",
-    "test": "NODE_ENV=test mocha test/*.js"
+    "start": "node server",
+    "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js"
   },
   "dependencies": {
-    "express": "3.2.6",
+    "express": "3.3.3",
     "express-load": "1.1.7",
-    "connect-flash": "0.1.0",
-    "ejs": "0.8.3",
+    "ejs": "0.8.4",
     "socket.io": "0.9.14",
-    "mongoose": "3.6.11"
+    "mongoose": "3.6.14",
+    "forever-monitor": "1.2.2",
+    "connect-redis": "~1.4.5",
+    "redis": "~0.8.4"
   },
   "devDependencies": {
+    "mocha": "*",
     "supertest": "*",
-    "should": "*",
-    "sinon": "*"
+    "should": "*"
   }
 }

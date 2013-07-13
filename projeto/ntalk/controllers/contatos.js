@@ -8,8 +8,7 @@ module.exports = function(app) {
       var _id = req.session.usuario._id;
       Usuario.findById(_id, function(erro, usuario) {
         var contatos = usuario.contatos;
-        var resultado = {contatos: contatos
-                       , mensagem: req.flash('warning')};
+        var resultado = {contatos: contatos};
         res.render('contatos/index', resultado);
       });
     },
@@ -19,8 +18,9 @@ module.exports = function(app) {
       Usuario.findById(_id, function(erro, usuario) {
         var contato = req.body.contato;
         usuario.contatos.push(contato);
-        usuario.save();
-        res.redirect('/contatos');
+        usuario.save(function() {
+          res.redirect('/contatos');
+        });
       });
     },
 
@@ -29,8 +29,7 @@ module.exports = function(app) {
       Usuario.findById(_id, function(erro, usuario) {
         var contatoID = req.params.id;
         var contato = usuario.contatos.id(contatoID);
-        var resultado = {contato: contato
-                       , mensagem: req.flash('warning')};
+        var resultado = {contato: contato};
         res.render('contatos/show', resultado);
       });
     },
@@ -40,8 +39,7 @@ module.exports = function(app) {
       Usuario.findById(_id, function(erro, usuario) {
         var contatoID = req.params.id;
         var contato = usuario.contatos.id(contatoID);
-        var resultado = {contato: contato
-                       , mensagem: req.flash('warning')};
+        var resultado = {contato: contato};
         res.render('contatos/edit', resultado);
       });
     },
@@ -53,8 +51,9 @@ module.exports = function(app) {
         var contato = usuario.contatos.id(contatoID);
         contato.nome = req.body.contato.nome;
         contato.email = req.body.contato.email;
-        usuario.save();
-        res.redirect('/contatos');
+        usuario.save(function() {
+          res.redirect('/contatos');
+        });
       });
     },
 
@@ -63,8 +62,9 @@ module.exports = function(app) {
       Usuario.findById(_id, function(erro, usuario) {
         var contatoID = req.params.id;
         usuario.contatos.id(contatoID).remove();
-        usuario.save();
-        res.redirect('/contatos');  
+        usuario.save(function() {
+          res.redirect('/contatos');
+        });
       });
     }
   }
