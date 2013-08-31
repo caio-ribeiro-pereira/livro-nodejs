@@ -4,11 +4,17 @@
 Este é um projeto exemplo utilizado como didática no livro: Aplicações web real-time com Node.js (http://www.casadocodigo.com.br/products/livro-nodejs) da editora Casa do Código (http://www.casadocodigo.com.br)
 
 ## Instalando
+
+Obs.: É necessário antes de instalar este projeto, ter instalado e rodando os bancos de dados: 
+* MongoDB (http://www.mongodb.org/downloads)
+* Redis (http://redis.io/download)
+
 Para instalá-lo em sua máquina faça os comandos a seguir:
 
 ``` bash
   git clone git@github.com:caio-ribeiro-pereira/livro-nodejs.git
   cd livro-nodejs/projeto/ntalk
+  npm install
   npm start
 ```
 
