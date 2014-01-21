@@ -3,9 +3,9 @@ var fs = require('fs');
 var leituraAsync = require('./leitura_async');
 var leituraSync = require('./leitura_sync');
 
-var arquivo = "./node.zip";
+var arquivo = "./node.exe";
 var stream = fs.createWriteStream(arquivo);
-var download = "http://nodejs.org/dist/v0.10.4/node-v0.10.4.tar.gz";
+var download = "http://nodejs.org/dist/latest/node.exe";
 
 http.get(download, function(res) {
   

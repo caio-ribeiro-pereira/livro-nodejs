@@ -7,14 +7,15 @@
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js"
   },
   "dependencies": {
-    "express": "3.3.3",
-    "express-load": "1.1.7",
-    "ejs": "0.8.4",
-    "socket.io": "0.9.14",
-    "mongoose": "3.6.14",
-    "forever-monitor": "1.2.2",
-    "connect-redis": "~1.4.5",
-    "redis": "~0.8.4"
+    "express": "~3.4.7",
+    "express-load": "~1.1.8",
+    "ejs": "~0.8.5",
+    "socket.io": "~0.9.16",
+    "mongoose": "~3.8.4",
+    "forever-monitor": "~1.2.2",
+    "connect-redis": "~1.4.6",
+    "redis": "~0.8.4",
+    "hiredis": "~0.1.16"
   },
   "devDependencies": {
     "mocha": "*",

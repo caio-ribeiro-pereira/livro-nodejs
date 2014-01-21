@@ -1,0 +1,11 @@
+{
+    "SECRET": "Ntalk",
+    "KEY": "ntalk.sid",
+    "MAX_AGE": {
+      "maxAge": 3600000
+    },
+    "GZIP_LVL": {
+      "level": 9, 
+      "memLevel": 9
+    }
+  }

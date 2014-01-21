@@ -1,11 +1,10 @@
 var cluster = require('cluster')
-  , os = require('os')
+  , cpus = require('os').cpus()
 ;
 if (cluster.isMaster) {
-  var cpus = os.cpus().length;
-  for (var i = 0; i < cpus; i++) {
+  cpus.forEach(function(cpu) {
     cluster.fork();
-  }
+  });
   cluster.on('listening', function(worker) {
     console.log("Cluster %d conectado", worker.process.pid);
   });

@@ -1,7 +1,7 @@
 module.exports = function(io) {
 
   var crypto = require('crypto')
-    , redis_connect = require('../middleware/redis_connect')
+    , redis_connect = require('../lib/redis_connect')
     , redis = redis_connect.getClient()
     , sockets = io.sockets;
 
