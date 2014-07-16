@@ -1,6 +1,6 @@
 var redis = require('redis')
   , redisStore = require('connect-redis')
-  , express = require('express')
+  , session = require('express-session')
   , socketio = require('socket.io')
 ;
 
@@ -9,7 +9,7 @@ exports.getClient = function() {
 }
   
 exports.getExpressStore = function() {
-  return redisStore(express);
+  return redisStore(session);
 }
 
 exports.getSocketStore = function() {

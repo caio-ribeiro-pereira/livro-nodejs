@@ -8,6 +8,6 @@ module.exports = function(app) {
   app.post('/contato', autenticar, contatos.create);
   app.get('/contato/:id/editar', autenticar, contatos.edit);
   app.put('/contato/:id', autenticar, contatos.update);
-  app.del('/contato/:id', autenticar, contatos.destroy);
+  app.delete('/contato/:id', autenticar, contatos.destroy);
 
 };
