@@ -37,7 +37,7 @@ app.use(express.static(__dirname + '/public', cfg.MAX_AGE));
 io.use(function(socket, next) {
   var data = socket.request;
   cookie(data, {}, function(err) {
-    var sessionID = data.signedCookies[KEY];
+    var sessionID = data.signedCookies[cfg.KEY];
     store.get(sessionID, function(err, session) {
       if (err || !session) {
         return next(new Error('acesso negado'));
