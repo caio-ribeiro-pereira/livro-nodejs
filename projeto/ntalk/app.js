@@ -1,5 +1,4 @@
 var express = require('express')
-  , app = express()
   , load = require('express-load')
   , cookieParser = require('cookie-parser')
   , bodyParser = require('body-parser')
@@ -7,13 +6,13 @@ var express = require('express')
   , compression = require('compression')
   , methodOverride = require('method-override')
   , morgan = require('morgan')
-  , server = require('http').Server(app)
-  , error = require('./middleware/error')
+  , error = require('./middlewares/error')
   , cfg = require('./config.json')
-  , io = require('socket.io').listen(server)
-  , redis = require('./lib/redis_connect')
+  , app = express()
+  , server = require('http').Server(app)
+  , io = require('socket.io')(server)
+  , redis = require('./libs/redis_connect')
   , ExpressStore = redis.getExpressStore()
-  , SocketStore = redis.getSocketStore()
   , cookie = cookieParser(cfg.SECRET)
   , store = new ExpressStore({client: redis.getClient(), prefix: cfg.KEY})
 ;
@@ -32,24 +31,19 @@ app.use(expressSession({
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(methodOverride('_method'));
-app.use(compression(cfg.GZIP_LVL));
+// app.use(compression());
 app.use(express.static(__dirname + '/public', cfg.MAX_AGE));
 
-io.enable('browser client cache');
-io.enable('browser client minification');
-io.enable('browser client etag');
-io.enable('browser client gzip');
-io.set('log level', 1);
-io.set('store', new SocketStore);
-io.set('authorization', function(data, accept) {
+io.use(function(socket, next) {
+  var data = socket.request;
   cookie(data, {}, function(err) {
-    var sessionID = data.signedCookies[cfg.KEY];
+    var sessionID = data.signedCookies[KEY];
     store.get(sessionID, function(err, session) {
       if (err || !session) {
-        accept(null, false);
+        return next(new Error('acesso negado'));
       } else {
-        data.session = session;
-        accept(null, true);
+        socket.handshake.session = session;
+        return next();
       }
     });
   });

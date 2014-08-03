@@ -9,7 +9,6 @@
   "dependencies": {
     "express-load": "~1.1.8",
     "ejs": "~0.8.5",
-    "socket.io": "~0.9.16",
     "mongoose": "~3.8.4",
     "forever-monitor": "~1.2.2",
     "connect-redis": "~2.0.0",
@@ -21,7 +20,8 @@
     "express-session": "~1.6.5",
     "compression": "~1.0.8",
     "morgan": "~1.1.1",
-    "method-override": "~2.1.1"
+    "method-override": "~2.1.1",
+    "socket.io": "~1.0.6"
   },
   "devDependencies": {
     "mocha": "*",

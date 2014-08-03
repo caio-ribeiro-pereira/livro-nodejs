@@ -1,8 +1,8 @@
 module.exports = function(app) {
 
-  var autenticar = require('./../middleware/autenticador')
+  var autenticar = require('./../middlewares/autenticador')
     , chat = app.controllers.chat;
 
-  app.get('/chat/:email', autenticar, chat.index);
+  app.get('/chat', autenticar, chat.index);
 
 };
