@@ -4,6 +4,7 @@
 </header>
 <section class="row-fluid text-center">
   <form action="/contato/<%- contato._id %>?_method=PUT" method="post" class="well form-inline">
+    <input type="hidden" name="_csrf" value="<%- _csrf %>">
     <h4>Editar contato</h4>
     <label>Nome:</label>
     <input type="text" name="contato[nome]" value="<%- contato.nome %>" class="input-medium">

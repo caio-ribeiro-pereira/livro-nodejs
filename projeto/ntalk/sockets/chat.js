@@ -1,15 +1,12 @@
 module.exports = function(io) {
-
   var crypto = require('crypto')
-    , redisConnect = require('../libs/redis_connect')
-    , redis = redisConnect.getClient()
-    , sockets = io.sockets;
-
+    , redis = require('redis').createClient()
+    , sockets = io.sockets
+  ;
   sockets.on('connection', function (client) {
-
     var session = client.handshake.session
-      , usuario = session.usuario;
-
+      , usuario = session.usuario
+    ;
     redis.sadd('onlines', usuario.email, function(erro) {
       redis.smembers('onlines', function(erro, emails) {
         emails.forEach(function(email) {
@@ -18,7 +15,7 @@ module.exports = function(io) {
         });
       });
     });
-  
+
     client.on('join', function(sala) {
       if(!sala) {
         var timestamp = new Date().toString()
@@ -58,4 +55,4 @@ module.exports = function(io) {
       sockets.in(sala).emit('send-client', msg);
     });
   });
-};
+}

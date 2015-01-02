@@ -2,7 +2,7 @@
 <script>
   var socket = io.connect('http://localhost:3000');
   
-  socket.emit('join', window.location.search);
+  socket.emit('join', '<%- sala %>');
   
   socket.on('send-client', function (msg) {
     var chat = document.getElementById('chat');

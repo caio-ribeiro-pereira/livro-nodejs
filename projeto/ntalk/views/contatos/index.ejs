@@ -5,6 +5,7 @@
 <section class="row-fluid">
   <section class="span12">
     <form action="/contato" method="post" class="well form-inline">
+      <input type="hidden" name="_csrf" value="<%- _csrf %>">
       <input type="text" name="contato[nome]" placeholder="Nome">
       <input type="text" name="contato[email]" placeholder="E-mail">
       <button type="submit" class="btn btn-primary">Cadastrar</button>
@@ -28,7 +29,7 @@
             </td>
             <td>
               <a href="/contato/<%- contato._id %>" class="btn btn-info">Detalhes</a>
-              <a href="/chat/<%- contato.email %>" id="chat_<%- contato.email %>" class="btn btn-inverse">Conversar</a>
+              <a href="/chat" id="chat_<%- contato.email %>" class="btn btn-inverse">Conversar</a>
             </td>
           </tr>
         <% }) %>

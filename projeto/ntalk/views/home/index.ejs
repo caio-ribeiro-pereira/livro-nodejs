@@ -5,6 +5,7 @@
 </header>
 <section class="row-fluid text-center">
   <form action="/entrar" method="post">
+    <input type="hidden" name="_csrf" value="<%- _csrf %>">
     <input type="text" name="usuario[nome]" placeholder="Digite seu nome.">
     <br>
     <input type="text" name="usuario[email]" placeholder="Digite seu e-mail.">

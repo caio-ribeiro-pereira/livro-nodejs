@@ -1,7 +1,7 @@
 var forever = require('forever-monitor');
 var Monitor = forever.Monitor;
 
-var child = new Monitor('clusters.js', {
+var child = new Monitor('app.js', {
   max: 10,
   silent: false,
   killTree: true,
