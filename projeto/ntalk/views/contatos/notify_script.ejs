@@ -29,6 +29,6 @@
               , classes: 'label label-important'};
     notify(opts);
     var chat = document.getElementById('chat_' + data.email);
-    chat.href += '?sala=' + data.sala;
+    chat.href = '/chat?sala=' + data.sala;
   });
 </script>
