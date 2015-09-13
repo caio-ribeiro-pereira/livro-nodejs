@@ -13,5 +13,6 @@
     var msg = document.getElementById('mensagem');
     socket.emit('send-server', msg.value);
     msg.value = '';
+    msg.focus();
   };
 </script>
