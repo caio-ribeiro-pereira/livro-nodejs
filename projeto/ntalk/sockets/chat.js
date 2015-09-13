@@ -23,23 +23,25 @@ module.exports = function(io) {
         ;
         sala = md5.update(timestamp).digest('hex');
       }
+      
       session.sala = sala;
       client.join(sala);
 
       var msg = "<b>"+usuario.nome+":</b> entrou.<br>";
-      redis.lpush(sala, msg, function(erro, res) {
-        redis.lrange(sala, 0, -1, function(erro, msgs) {
-          msgs.forEach(function(msg) {
-            sockets.in(sala).emit('send-client', msg);
-          });
+           
+      redis.lrange(sala, 0, -1, function(erro, msgs) {
+        msgs.forEach(function(msg) {
+        	client.emit('send-client', msg);
         });
+        redis.rpush(sala, msg);
+        sockets.in(sala).emit('send-client', msg);
       });
     });
 
     client.on('disconnect', function () {
       var sala = session.sala
         , msg = "<b>"+ usuario.nome +":</b> saiu.<br>";
-      redis.lpush(sala, msg);
+      redis.rpush(sala, msg);
       client.broadcast.emit('notify-offlines', usuario.email);
       sockets.in(sala).emit('send-client', msg);
       redis.srem('onlines', usuario.email);
@@ -50,7 +52,7 @@ module.exports = function(io) {
       var sala = session.sala
         , data = {email: usuario.email, sala: sala};
       msg = "<b>"+usuario.nome+":</b> "+msg+"<br>";
-      redis.lpush(sala, msg);
+      redis.rpush(sala, msg);
       client.broadcast.emit('new-message', data);
       sockets.in(sala).emit('send-client', msg);
     });
