@@ -16,8 +16,9 @@ var rotear = function(pathname){
       return arquivo;
     }
     return diretorio("erro.html");
+  } else{
+    return diretorio("index.html");
   }
-  return diretorio("artigos.html");
 };
 
 // Iniciando Servidor do desafio
@@ -25,7 +26,10 @@ var server = http.createServer(function(request, response){
 
   // Obtendo o pathname digitado no browser
   var pathname = url.parse(request.url).pathname;
-  
+  if(pathname == '/favicon.ico'){
+    return false;
+  }
+
   // Processando roteamento do pathname
   var pagina = rotear(pathname);
 
