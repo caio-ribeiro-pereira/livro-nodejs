@@ -1,15 +1,15 @@
-var http = require('http');
+const http = require('http');
  
-function atendeRequisicao(request, response) {
-  response.writeHead(200, {"Content-Type": "text/html"});
-  response.write("<h1>Hello World!</h1>");
+const atendeRequisicao = (request, response) => {
+  response.writeHead(200, {'Content-Type': 'text/html'});
+  response.write('<h1>Hello World!</h1>');
   response.end();
 }
 
 
-var server = http.createServer(atendeRequisicao);
+const server = http.createServer(atendeRequisicao);
   
-function servidorLigou() {
+const servidorLigou = () => {
   console.log('Servidor Hello World rodando!');
 }
 

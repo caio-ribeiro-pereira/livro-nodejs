@@ -1,17 +1,15 @@
-var http = require('http');
-var fs = require('fs');
+const http = require('http');
+const fs = require('fs');
  
-var server = http.createServer(function(request, response){
-
-  // A constante __dirname retorna o diretório raíz da aplicação.
-  fs.readFile(__dirname + '/index.html', function(err, html){
-
+const server = http.createServer((request, response) => {
+  // __dirname retorna o diretório raíz da aplicação.
+  fs.readFile(__dirname + '/index.html', (err, html) => {
     response.writeHeader(200, {'Content-Type': 'text/html'});
-    response.write(html); 
-    response.end();    
+    response.write(html);
+    response.end();
   });
 });
- 
-server.listen(3000, function(){
+
+server.listen(3000, () => {
   console.log('Executando Site Pessoal');
 });

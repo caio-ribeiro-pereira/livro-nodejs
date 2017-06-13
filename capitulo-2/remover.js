@@ -1,7 +1,7 @@
-var fs = require('fs');
+const fs = require('fs');
 
-var remover = function(arquivo){
-  console.log("Excluindo download");
+const remover = (arquivo) => {
+  console.log('Excluindo download');
   fs.rmdir(arquivo);
 };
 

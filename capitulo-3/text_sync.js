@@ -1,7 +1,7 @@
-var fs = require('fs');
+const fs = require('fs');
 
-for(var i = 1; i <= 5; i++) {
-  var file = "sync-txt" + i + ".txt";
-  var out = fs.writeFileSync(file, "Hello Node.js!");
+for (let i = 1; i <= 5; i++) {
+  const file = `sync-txt${i}.txt`;
+  const out = fs.writeFileSync(file, 'Hello Node.js!');
   console.log(out);
 }

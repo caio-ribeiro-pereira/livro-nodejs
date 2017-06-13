@@ -1,20 +1,19 @@
-var fs = require('fs');
+const fs = require('fs');
+const path = require('path');
 
-var lerDiretorio = function() {
-  fs.readdir(__dirname, function(erro, diretorio) {
-    if (erro) return erro;
-    diretorio.forEach(function(arquivo) {
-      ler(arquivo);
-    });
-  });
-};
-var ler = function(arquivo) {
-  var path = './' + arquivo;
-  fs.stat(path, function(erro, stat) {
+const ler = (arquivo) => {
+  const dir = path.join(__dirname, arquivo);
+  fs.stat(dir, (erro, stat) => {
     if (erro) return erro;
     if (stat.isFile()) {
       console.log('%s %d bytes', arquivo, stat.size);
     }
+  });
+};
+const lerDiretorio = () => {
+  fs.readdir(__dirname, (erro, diretorio) => {
+    if (erro) return erro;
+    diretorio.forEach((arquivo) => ler(arquivo));
   });
 };
 lerDiretorio();
