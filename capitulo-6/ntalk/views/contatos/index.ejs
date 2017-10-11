@@ -15,6 +15,7 @@
       <tr>
         <th>Nome</th>
         <th>E-mail</th>
+        <th>Status</th>
         <th>Ação</th>
       </tr>
     </thead>
@@ -24,13 +25,17 @@
           <td><%- contato.nome %></td>
           <td><%- contato.email %></td>
           <td>
+            <span id="notify_<%- contato.email %>">Offline</span>
+          </td>
+          <td>
             <a href="/contato/<%- index %>">Detalhes</a>
-            <a href="/chat">Conversar</a>
+            <a href="/chat" id="chat_<%- contato.email %>">Conversar</a>
           </td>
         </tr>
       <% }) %>
     </tbody>
   </table>
 </section>
+<% include notify_script %>
 <% include ../exit %>
 <% include ../footer %>

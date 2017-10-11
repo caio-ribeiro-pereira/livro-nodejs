@@ -2,13 +2,13 @@
 <script src="/socket.io/socket.io.js"></script>
 <script>
   const socket = io();
+  socket.emit('create-room', '<%- sala %>');
   socket.on('send-client', (msg) => {
     document.getElementById('chat').innerHTML += msg;
   });
   const enviar = () => {
-    const nome = document.getElementById('nome').value; 
-    const msg = document.getElementById('msg').value;
-    socket.emit('send-server', { nome, msg });
+    const msg = document.getElementById('msg');
+    socket.emit('send-server', msg.value);
   };
 </script>
 <header>
@@ -16,7 +16,6 @@
 </header>
 <section>
   <pre id="chat"></pre>
-  <input type="hidden" id="nome" value="<%- usuario.nome %>">
   <input type="text" id="msg" placeholder="Mensagem">
   <button onclick="enviar();">Enviar</button>
 </section>
