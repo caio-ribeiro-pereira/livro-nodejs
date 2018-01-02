@@ -29,8 +29,8 @@ module.exports = (app) => {
       Usuario.findById(_id)
         .then((usuario) => {
           const { contatos } = usuario;
-          const contato = contatos.find((contato) => {
-            return contato._id === ObjectId(contatoId);
+          const contato = contatos.find((ct) => {
+            return ct._id.toString() === contatoId;
           });
           res.render('contatos/show', { contato });
         })
@@ -43,8 +43,8 @@ module.exports = (app) => {
       Usuario.findById(_id)
         .then((usuario) => {
           const { contatos } = usuario;
-          const contato = contatos.find((contato) => {
-            return contato._id === ObjectId(contatoId);
+          const contato = contatos.find((ct) => {
+            return ct._id.toString() === contatoId;
           });
           res.render('contatos/edit', { contato, usuario });
         })

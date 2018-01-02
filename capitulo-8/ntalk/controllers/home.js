@@ -16,6 +16,7 @@ module.exports = (app) => {
         upsert: true, runValidators: true, new: true
       };
       Usuario.findOneAndUpdate(where, set, options)
+        .select('email nome')
         .then((usuario) => {
           req.session.usuario = usuario;
           res.redirect('/contatos');

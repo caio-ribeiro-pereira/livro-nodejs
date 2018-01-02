@@ -5,6 +5,7 @@ const socketIO = require('socket.io');
 const consign = require('consign');
 const bodyParser = require('body-parser');
 const cookie = require('cookie');
+const csurf = require('csurf');
 const compression = require('compression')
 const expressSession = require('express-session');
 const methodOverride = require('method-override');
@@ -18,6 +19,7 @@ const server = http.Server(app);
 const io = socketIO(server);
 const store = new RedisStore({ prefix: config.sessionKey });
 
+app.disable('x-powered-by');
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(compression());
@@ -37,8 +39,13 @@ app.use(
     { maxAge: 3600000 }
   )
 );
+app.use(csurf());
+app.use((req, res, next) => {
+  res.locals._csrf = req.csrfToken();
+  next();
+});
 
-io.adapter(redisAdapter());
+io.adapter(redisAdapter(config.redis));
 io.use((socket, next) => {
   const cookieData = socket.request.headers.cookie;
   const cookieObj = cookie.parse(cookieData);

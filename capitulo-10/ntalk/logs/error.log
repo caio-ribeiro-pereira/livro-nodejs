@@ -1,0 +1,1835 @@
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to true
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to true
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag" to 'weak'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag fn" to [Function: wetag]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "env" to 'development'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser" to 'extended'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "subdomain offset" to 2
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Tue, 02 Jan 2018 17:56:21 GMT express:application booting in development mode
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view" to [Function: View]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "jsonp callback name" to 'callback'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag" to 'weak'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag fn" to [Function: wetag]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "env" to 'development'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser" to 'extended'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "subdomain offset" to 2
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Tue, 02 Jan 2018 17:56:21 GMT express:application booting in development mode
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to true
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view" to [Function: View]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "jsonp callback name" to 'callback'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag" to 'weak'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag fn" to [Function: wetag]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "env" to 'development'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser" to 'extended'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server initializing namespace /
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "subdomain offset" to 2
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy" to false
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Tue, 02 Jan 2018 17:56:21 GMT express:application booting in development mode
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view" to [Function: View]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "jsonp callback name" to 'callback'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to true
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag" to 'weak'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server initializing namespace /
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "etag fn" to [Function: wetag]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "env" to 'development'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser" to 'extended'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "subdomain offset" to 2
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy" to false
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server attaching client serving req handler
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Tue, 02 Jan 2018 17:56:21 GMT express:application booting in development mode
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view" to [Function: View]
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "jsonp callback name" to 'callback'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server initializing namespace /
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server attaching client serving req handler
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view engine" to 'ejs'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server initializing namespace /
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' query
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:21 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' expressInit
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' compression
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server attaching client serving req handler
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' session
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view engine" to 'ejs'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' query
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' expressInit
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' compression
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:server attaching client serving req handler
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' session
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view engine" to 'ejs'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' query
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' expressInit
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' compression
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' session
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "x-powered-by" to false
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "views" to '/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views'
+Tue, 02 Jan 2018 17:56:21 GMT express:application set "view engine" to 'ejs'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' jsonParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' query
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' expressInit
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' urlencodedParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' methodOverride
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' compression
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' serveStatic
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' session
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' csrf
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' jsonParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' urlencodedParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' methodOverride
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' serveStatic
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' csrf
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:namespace removing initial packet
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' jsonParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' urlencodedParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' methodOverride
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' serveStatic
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' csrf
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:namespace removing initial packet
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' jsonParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' urlencodedParser
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' methodOverride
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' serveStatic
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' csrf
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:namespace removing initial packet
+Tue, 02 Jan 2018 17:56:21 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:21 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:21 GMT socket.io:namespace removing initial packet
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/chat'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contatos'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/contato'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/contato/:id/editar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route put '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route delete '/contato/:id'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route post '/entrar'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:route get '/sair'
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:22 GMT express:router use '/' <anonymous>
+Tue, 02 Jan 2018 17:56:22 GMT express:router:layer new '/'
+Tue, 02 Jan 2018 17:56:23 GMT express:router dispatching GET /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router query  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router expressInit  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router compression  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router session  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express-session fetching fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq
+2018-01-02T17:56:23.227Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:23.235Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:23 GMT express-session session found
+Tue, 02 Jan 2018 17:56:23 GMT express:router jsonParser  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT body-parser:json skip empty body
+Tue, 02 Jan 2018 17:56:23 GMT express:router urlencodedParser  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT body-parser:urlencoded skip empty body
+Tue, 02 Jan 2018 17:56:23 GMT express:router methodOverride  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router serveStatic  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT send stat "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/public/contatos"
+Tue, 02 Jan 2018 17:56:23 GMT express:router csrf  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT express:router <anonymous>  : /contatos
+Tue, 02 Jan 2018 17:56:23 GMT mquery findOne usuarios { _id: 5a4ba51a97bb79ae27192704 } { fields: {} }
+Tue, 02 Jan 2018 17:56:23 GMT express:view require "ejs"
+Tue, 02 Jan 2018 17:56:23 GMT express:view lookup "contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:23 GMT express:view stat "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views/contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:23 GMT express:view render "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views/contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:23 GMT express-session saving fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq
+2018-01-02T17:56:23.286Z connect:redis SET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}} ttl:86400
+Tue, 02 Jan 2018 17:56:23 GMT express-session split response
+Tue, 02 Jan 2018 17:56:23 GMT compression gzip compression
+2018-01-02T17:56:23.293Z connect:redis SET complete
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:server serve client source
+Tue, 02 Jan 2018 17:56:23 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:23 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u16Ac"
+Tue, 02 Jan 2018 17:56:23 GMT engine handshaking client "SKx6YDjAlgvyULZBAAAA"
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket sending packet "open" ({"sid":"SKx6YDjAlgvyULZBAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:56:23 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:23 GMT engine:polling writing "97:0{"sid":"SKx6YDjAlgvyULZBAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:server incoming connection with id SKx6YDjAlgvyULZBAAAA
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:56:23.354Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:23.355Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:socket joining room SKx6YDjAlgvyULZBAAAA
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:socket joined room SKx6YDjAlgvyULZBAAAA
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:23 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:23 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:23 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u16BK&sid=SKx6YDjAlgvyULZBAAAA"
+Tue, 02 Jan 2018 17:56:23 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:23 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:23 GMT engine:polling writing "2:4034:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:56:23 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:23 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:23 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u16CD&sid=SKx6YDjAlgvyULZBAAAA"
+Tue, 02 Jan 2018 17:56:23 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:23 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:23 GMT socket.io:server serve client sourcemap
+Tue, 02 Jan 2018 17:56:28 GMT express:router dispatching GET /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router query  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router expressInit  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router compression  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router session  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express-session fetching fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq
+2018-01-02T17:56:28.876Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:28.880Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:28 GMT express-session session found
+Tue, 02 Jan 2018 17:56:28 GMT express:router jsonParser  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT body-parser:json skip empty body
+Tue, 02 Jan 2018 17:56:28 GMT express:router urlencodedParser  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT body-parser:urlencoded skip empty body
+Tue, 02 Jan 2018 17:56:28 GMT express:router methodOverride  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router serveStatic  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT send stat "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/public/contatos"
+Tue, 02 Jan 2018 17:56:28 GMT express:router csrf  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT express:router <anonymous>  : /contatos
+Tue, 02 Jan 2018 17:56:28 GMT mquery findOne usuarios { _id: 5a4ba51a97bb79ae27192704 } { fields: {} }
+Tue, 02 Jan 2018 17:56:28 GMT express:view require "ejs"
+Tue, 02 Jan 2018 17:56:28 GMT express:view lookup "contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:28 GMT express:view stat "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views/contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:28 GMT express:view render "/Users/caio/Workspace/nodejs/livro-nodejs/capitulo-10/ntalk/views/contatos/index.ejs"
+Tue, 02 Jan 2018 17:56:28 GMT express-session saving fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq
+2018-01-02T17:56:28.936Z connect:redis SET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}} ttl:86400
+Tue, 02 Jan 2018 17:56:28 GMT express-session split response
+Tue, 02 Jan 2018 17:56:28 GMT compression gzip compression
+2018-01-02T17:56:28.943Z connect:redis SET complete
+Tue, 02 Jan 2018 17:56:28 GMT engine:socket transport error
+Tue, 02 Jan 2018 17:56:28 GMT engine:polling closing
+Tue, 02 Jan 2018 17:56:28 GMT engine:polling transport writable - closing right away
+Tue, 02 Jan 2018 17:56:28 GMT engine:polling writing "1:1"
+Tue, 02 Jan 2018 17:56:28 GMT socket.io:client client close with reason transport error
+Tue, 02 Jan 2018 17:56:28 GMT socket.io:socket closing socket - reason transport error
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:56:28 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:56:28 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:28 GMT socket.io:server serve client source
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:28 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:56:28 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:28 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17Y-"
+Tue, 02 Jan 2018 17:56:28 GMT engine handshaking client "GCMLEJMev6rkD-gqAAAA"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "open" ({"sid":"GCMLEJMev6rkD-gqAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling writing "97:0{"sid":"GCMLEJMev6rkD-gqAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:server incoming connection with id GCMLEJMev6rkD-gqAAAA
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:56:29.014Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:29.029Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket joining room GCMLEJMev6rkD-gqAAAA
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket joined room GCMLEJMev6rkD-gqAAAA
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:server serve client sourcemap
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17a1&sid=GCMLEJMev6rkD-gqAAAA"
+Tue, 02 Jan 2018 17:56:29 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling writing "2:4034:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17bY&sid=GCMLEJMev6rkD-gqAAAA"
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u17bf&sid=GCMLEJMev6rkD-gqAAAA"
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17nZ"
+Tue, 02 Jan 2018 17:56:29 GMT engine handshaking client "Rm-wDHrVckGTmOzSAAAB"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "open" ({"sid":"Rm-wDHrVckGTmOzSAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling writing "97:0{"sid":"Rm-wDHrVckGTmOzSAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:server incoming connection with id Rm-wDHrVckGTmOzSAAAB
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:56:29.931Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:29.934Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket joining room Rm-wDHrVckGTmOzSAAAB
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:socket joined room Rm-wDHrVckGTmOzSAAAB
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17nm&sid=Rm-wDHrVckGTmOzSAAAB"
+Tue, 02 Jan 2018 17:56:29 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling writing "2:4034:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:29 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:29 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:29 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:29 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:29 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u17n-&sid=Rm-wDHrVckGTmOzSAAAB"
+Tue, 02 Jan 2018 17:56:29 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:29 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:54 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:54 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1DuS&sid=Rm-wDHrVckGTmOzSAAAB"
+Tue, 02 Jan 2018 17:56:54 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:54 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1DuZ&sid=Rm-wDHrVckGTmOzSAAAB"
+Tue, 02 Jan 2018 17:56:55 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:55 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1E3C"
+Tue, 02 Jan 2018 17:56:55 GMT engine handshaking client "sCSDhk53BCCVtwWYAAAB"
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket sending packet "open" ({"sid":"sCSDhk53BCCVtwWYAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:56:55 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:55 GMT engine:polling writing "97:0{"sid":"sCSDhk53BCCVtwWYAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:server incoming connection with id sCSDhk53BCCVtwWYAAAB
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:56:55.640Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:55.643Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:socket joining room sCSDhk53BCCVtwWYAAAB
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:socket joined room sCSDhk53BCCVtwWYAAAB
+Tue, 02 Jan 2018 17:56:55 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:55 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1E3Q&sid=sCSDhk53BCCVtwWYAAAB"
+Tue, 02 Jan 2018 17:56:55 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:55 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:55 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:55 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:55 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:55 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:56:55 GMT engine upgrading existing transport
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Tue, 02 Jan 2018 17:56:55 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:55 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1E3d&sid=sCSDhk53BCCVtwWYAAAB"
+Tue, 02 Jan 2018 17:56:55 GMT engine:ws received "2probe"
+Tue, 02 Jan 2018 17:56:55 GMT engine:ws writing "3probe"
+Tue, 02 Jan 2018 17:56:55 GMT engine:socket client did not complete upgrade - transport closed
+Tue, 02 Jan 2018 17:56:57 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:57 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1EQe"
+Tue, 02 Jan 2018 17:56:57 GMT engine handshaking client "yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "open" ({"sid":"yIhBiYYsO6jfK1aRAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling writing "97:0{"sid":"yIhBiYYsO6jfK1aRAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:server incoming connection with id yIhBiYYsO6jfK1aRAAAC
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:56:57.135Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:56:57.138Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:socket joining room yIhBiYYsO6jfK1aRAAAC
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:socket joined room yIhBiYYsO6jfK1aRAAAC
+Tue, 02 Jan 2018 17:56:57 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:57 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1EQo&sid=yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:56:57 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:57 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:56:57 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:56:57 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:57 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ER2&sid=yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:56:57 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:56:57 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:56:57 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:56:57 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ERK&sid=yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:56:57 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:56:57 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1KXU&sid=yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1KXe&sid=yIhBiYYsO6jfK1aRAAAC"
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1KiA"
+Tue, 02 Jan 2018 17:57:22 GMT engine handshaking client "Y5GT7NWc22ulKLjrAAAC"
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "open" ({"sid":"Y5GT7NWc22ulKLjrAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:57:22 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:22 GMT engine:polling writing "97:0{"sid":"Y5GT7NWc22ulKLjrAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:server incoming connection with id Y5GT7NWc22ulKLjrAAAC
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:57:22.832Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:57:22.834Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:socket joining room Y5GT7NWc22ulKLjrAAAC
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:socket joined room Y5GT7NWc22ulKLjrAAAC
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1KiJ&sid=Y5GT7NWc22ulKLjrAAAC"
+Tue, 02 Jan 2018 17:57:22 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:22 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:22 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:22 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:22 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:22 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:22 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1KiX&sid=Y5GT7NWc22ulKLjrAAAC"
+Tue, 02 Jan 2018 17:57:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:22 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1Kii&sid=Y5GT7NWc22ulKLjrAAAC"
+Tue, 02 Jan 2018 17:57:24 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:24 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1L0R"
+Tue, 02 Jan 2018 17:57:24 GMT engine handshaking client "kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "open" ({"sid":"kMTyQ9BYIMJEGZdtAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling writing "97:0{"sid":"kMTyQ9BYIMJEGZdtAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:server incoming connection with id kMTyQ9BYIMJEGZdtAAAD
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:57:24.130Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:57:24.133Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:socket joining room kMTyQ9BYIMJEGZdtAAAD
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:socket joined room kMTyQ9BYIMJEGZdtAAAD
+Tue, 02 Jan 2018 17:57:24 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:24 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1L0b&sid=kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:24 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:24 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:24 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:24 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1L0s&sid=kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:24 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:24 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:24 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:24 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1L0y&sid=kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:24 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:24 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:49 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:49 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1R7G&sid=kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:49 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:49 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1R7N&sid=kMTyQ9BYIMJEGZdtAAAD"
+Tue, 02 Jan 2018 17:57:49 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:49 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RJu"
+Tue, 02 Jan 2018 17:57:49 GMT engine handshaking client "aUSq2E2W_k1M7eZAAAAD"
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "open" ({"sid":"aUSq2E2W_k1M7eZAAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:57:49 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:49 GMT engine:polling writing "97:0{"sid":"aUSq2E2W_k1M7eZAAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:server incoming connection with id aUSq2E2W_k1M7eZAAAAD
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:57:49.949Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:57:49.953Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:socket joining room aUSq2E2W_k1M7eZAAAAD
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:socket joined room aUSq2E2W_k1M7eZAAAAD
+Tue, 02 Jan 2018 17:57:49 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:49 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RK5&sid=aUSq2E2W_k1M7eZAAAAD"
+Tue, 02 Jan 2018 17:57:49 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:49 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:49 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT engine upgrading existing transport
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:49 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:49 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:49 GMT engine:ws received "2probe"
+Tue, 02 Jan 2018 17:57:49 GMT engine:ws writing "3probe"
+Tue, 02 Jan 2018 17:57:49 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:49 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RKM&sid=aUSq2E2W_k1M7eZAAAAD"
+Tue, 02 Jan 2018 17:57:49 GMT engine:socket client did not complete upgrade - transport closed
+Tue, 02 Jan 2018 17:57:50 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:50 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RYP"
+Tue, 02 Jan 2018 17:57:50 GMT engine handshaking client "W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "open" ({"sid":"W09GpiYoPW6Rn6vSAAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling writing "97:0{"sid":"W09GpiYoPW6Rn6vSAAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:server incoming connection with id W09GpiYoPW6Rn6vSAAAE
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:57:50.881Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:57:50.884Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:socket joining room W09GpiYoPW6Rn6vSAAAE
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:socket joined room W09GpiYoPW6Rn6vSAAAE
+Tue, 02 Jan 2018 17:57:50 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:50 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RYZ&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:50 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:50 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:50 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:50 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RYn&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:50 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:50 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:50 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:50 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1RYv&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:50 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:50 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling closing
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling writing "35:42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:54 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1SJe&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:54 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling closing
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling writing "35:42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:57:54 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:57:54 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1SX_&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:57:54 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:57:54 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:57:54 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:15 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:15 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1XfH&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:58:15 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:15 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1XfQ&sid=W09GpiYoPW6Rn6vSAAAE"
+Tue, 02 Jan 2018 17:58:17 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:17 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1X-f"
+Tue, 02 Jan 2018 17:58:17 GMT engine handshaking client "FBVFzgnTL4H2Kcn8AAAE"
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "open" ({"sid":"FBVFzgnTL4H2Kcn8AAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:58:17 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:17 GMT engine:polling writing "97:0{"sid":"FBVFzgnTL4H2Kcn8AAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:server incoming connection with id FBVFzgnTL4H2Kcn8AAAE
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:58:17.262Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:58:17.264Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:socket joining room FBVFzgnTL4H2Kcn8AAAE
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:socket joined room FBVFzgnTL4H2Kcn8AAAE
+Tue, 02 Jan 2018 17:58:17 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:17 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1X-n&sid=FBVFzgnTL4H2Kcn8AAAE"
+Tue, 02 Jan 2018 17:58:17 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:17 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:17 GMT engine:polling writing "2:40"
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:17 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:17 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:17 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:17 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:17 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1X_3&sid=FBVFzgnTL4H2Kcn8AAAE"
+Tue, 02 Jan 2018 17:58:17 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:17 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1X_B&sid=FBVFzgnTL4H2Kcn8AAAE"
+Tue, 02 Jan 2018 17:58:18 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:18 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1YKY"
+Tue, 02 Jan 2018 17:58:18 GMT engine handshaking client "Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "open" ({"sid":"Urp5YgevoXjnnIeKAAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:58:18 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:18 GMT engine:polling writing "97:0{"sid":"Urp5YgevoXjnnIeKAAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:server incoming connection with id Urp5YgevoXjnnIeKAAAF
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:58:18.663Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:58:18.667Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:socket joining room Urp5YgevoXjnnIeKAAAF
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:socket joined room Urp5YgevoXjnnIeKAAAF
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:18 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1YKi&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:18 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:18 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:18 GMT engine:polling writing "2:4034:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:18 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:18 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:18 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:18 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1YKw&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:18 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:18 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:20 GMT engine:polling closing
+Tue, 02 Jan 2018 17:58:20 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:20 GMT engine:polling writing "35:42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:20 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:20 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:20 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1Ypk&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:20 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:20 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:20 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:22 GMT engine:polling closing
+Tue, 02 Jan 2018 17:58:22 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:22 GMT engine:polling writing "35:42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:22 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:22 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:22 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ZB0&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:22 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:22 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:22 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:43 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:43 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1eRN&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:43 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:43 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=M2u1eRW&sid=Urp5YgevoXjnnIeKAAAF"
+Tue, 02 Jan 2018 17:58:44 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:44 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ec8"
+Tue, 02 Jan 2018 17:58:44 GMT engine handshaking client "yFkn3gigVBOZ7j4AAAAF"
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "open" ({"sid":"yFkn3gigVBOZ7j4AAAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling writing "97:0{"sid":"yFkn3gigVBOZ7j4AAAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:server incoming connection with id yFkn3gigVBOZ7j4AAAAF
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client connecting to namespace /
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:namespace adding socket to nsp /
+2018-01-02T17:58:44.369Z connect:redis GET "fLtwtdhx_u2kXvHlwHutuYH0nN4zBIyq"
+2018-01-02T17:58:44.370Z connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"rLQAGlzMvxwA6AEAQO2sAzS-","usuario":{"_id":"5a4ba51a97bb79ae27192704","email":"xo@mail.com","nome":"xo"}}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:socket socket connected - writing packet
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:socket joining room yFkn3gigVBOZ7j4AAAAF
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (0)
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:socket joined room yFkn3gigVBOZ7j4AAAAF
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:44 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","xo@mail.com"],"nsp":"/"} as 2["notify-onlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket sending packet "message" (2["notify-onlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling writing "34:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:44 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:44 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ecM&sid=yFkn3gigVBOZ7j4AAAAF"
+Tue, 02 Jan 2018 17:58:44 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling writing "2:4034:42["notify-onlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket executing batch send callback
+Tue, 02 Jan 2018 17:58:44 GMT engine upgrading existing transport
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Tue, 02 Jan 2018 17:58:44 GMT engine:ws received "2probe"
+Tue, 02 Jan 2018 17:58:44 GMT engine:ws writing "3probe"
+Tue, 02 Jan 2018 17:58:44 GMT engine intercepting request for path "/socket.io/"
+Tue, 02 Jan 2018 17:58:44 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=M2u1ecd&sid=yFkn3gigVBOZ7j4AAAAF"
+Tue, 02 Jan 2018 17:58:44 GMT engine setting new request for existing client
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling setting request
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket writing a noop packet to polling for fast upgrade
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling writing "1:6"
+Tue, 02 Jan 2018 17:58:44 GMT engine:ws received "5"
+Tue, 02 Jan 2018 17:58:44 GMT engine:socket got upgrade packet - upgrading
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling closing
+Tue, 02 Jan 2018 17:58:44 GMT engine:polling transport discarded - closing right away
+Tue, 02 Jan 2018 17:58:47 GMT engine:polling closing
+Tue, 02 Jan 2018 17:58:47 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:47 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:47 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:47 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:49 GMT engine:polling closing
+Tue, 02 Jan 2018 17:58:49 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:49 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:58:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:58:49 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:58:49 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:09 GMT engine:ws received "2"
+Tue, 02 Jan 2018 17:59:09 GMT engine:socket packet
+Tue, 02 Jan 2018 17:59:09 GMT engine:socket got ping
+Tue, 02 Jan 2018 17:59:09 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 17:59:09 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:09 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 17:59:14 GMT engine:polling closing
+Tue, 02 Jan 2018 17:59:14 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:14 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:14 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:14 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:14 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:14 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:59:14 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:14 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:14 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:15 GMT engine:polling closing
+Tue, 02 Jan 2018 17:59:15 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:15 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:15 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:15 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:15 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:15 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:15 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:59:15 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:34 GMT engine:ws received "2"
+Tue, 02 Jan 2018 17:59:34 GMT engine:socket packet
+Tue, 02 Jan 2018 17:59:34 GMT engine:socket got ping
+Tue, 02 Jan 2018 17:59:34 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 17:59:34 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:34 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 17:59:42 GMT engine:polling closing
+Tue, 02 Jan 2018 17:59:42 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:42 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:42 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:42 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:42 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:59:42 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:42 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:43 GMT engine:polling closing
+Tue, 02 Jan 2018 17:59:43 GMT engine:polling transport not writable - buffering orderly close
+Tue, 02 Jan 2018 17:59:43 GMT socket.io:client client close with reason ping timeout
+Tue, 02 Jan 2018 17:59:43 GMT socket.io:socket closing socket - reason ping timeout
+node_redis: Deprecated: The LPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Tue, 02 Jan 2018 17:59:43 GMT socket.io:socket leave room undefined
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis publishing message to channel socket.io#/#
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis publishing message to channel socket.io#/#undefined#
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>xo:</b> saiu.<br>"],"nsp":"/"} as 2["send-client","<b>xo:</b> saiu.<br>"]
+Tue, 02 Jan 2018 17:59:43 GMT socket.io:socket left room undefined
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis ignore same uid
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:43 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"xo@mail.com\"]"]
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"}
+Tue, 02 Jan 2018 17:59:43 GMT engine:socket sending packet "message" (2["notify-offlines","xo@mail.com"])
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","xo@mail.com"],"nsp":"/"} as 2["notify-offlines","xo@mail.com"]
+Tue, 02 Jan 2018 17:59:43 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:43 GMT engine:ws writing "42["notify-offlines","xo@mail.com"]"
+Tue, 02 Jan 2018 17:59:43 GMT socket.io-redis ignore unknown room undefined
+Tue, 02 Jan 2018 17:59:59 GMT engine:ws received "2"
+Tue, 02 Jan 2018 17:59:59 GMT engine:socket packet
+Tue, 02 Jan 2018 17:59:59 GMT engine:socket got ping
+Tue, 02 Jan 2018 17:59:59 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 17:59:59 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 17:59:59 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:00:24 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:00:24 GMT engine:socket packet
+Tue, 02 Jan 2018 18:00:24 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:00:24 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:00:24 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:00:24 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:00:49 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:00:49 GMT engine:socket packet
+Tue, 02 Jan 2018 18:00:49 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:00:49 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:00:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:00:49 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:01:14 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:01:14 GMT engine:socket packet
+Tue, 02 Jan 2018 18:01:14 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:01:14 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:01:14 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:01:14 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:01:39 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:01:39 GMT engine:socket packet
+Tue, 02 Jan 2018 18:01:39 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:01:39 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:01:39 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:01:39 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:02:04 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:02:04 GMT engine:socket packet
+Tue, 02 Jan 2018 18:02:04 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:02:04 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:02:04 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:02:04 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:02:29 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:02:29 GMT engine:socket packet
+Tue, 02 Jan 2018 18:02:29 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:02:29 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:02:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:02:29 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:02:54 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:02:54 GMT engine:socket packet
+Tue, 02 Jan 2018 18:02:54 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:02:54 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:02:54 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:02:54 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:03:19 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:03:19 GMT engine:socket packet
+Tue, 02 Jan 2018 18:03:19 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:03:19 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:03:19 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:03:19 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:03:45 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:03:45 GMT engine:socket packet
+Tue, 02 Jan 2018 18:03:45 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:03:45 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:03:45 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:03:45 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:04:11 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:04:11 GMT engine:socket packet
+Tue, 02 Jan 2018 18:04:11 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:04:11 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:04:11 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:04:11 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:04:37 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:04:37 GMT engine:socket packet
+Tue, 02 Jan 2018 18:04:37 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:04:37 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:04:37 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:04:37 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:05:07 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:05:07 GMT engine:socket packet
+Tue, 02 Jan 2018 18:05:07 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:05:07 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:05:07 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:05:07 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:05:35 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:05:35 GMT engine:socket packet
+Tue, 02 Jan 2018 18:05:35 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:05:35 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:05:35 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:05:35 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:06:01 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:06:01 GMT engine:socket packet
+Tue, 02 Jan 2018 18:06:01 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:06:01 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:06:01 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:06:01 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:06:27 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:06:27 GMT engine:socket packet
+Tue, 02 Jan 2018 18:06:27 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:06:27 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:06:27 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:06:27 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:06:53 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:06:53 GMT engine:socket packet
+Tue, 02 Jan 2018 18:06:53 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:06:53 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:06:53 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:06:53 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:07:20 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:07:20 GMT engine:socket packet
+Tue, 02 Jan 2018 18:07:20 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:07:20 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:07:20 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:07:20 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:07:48 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:07:48 GMT engine:socket packet
+Tue, 02 Jan 2018 18:07:48 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:07:48 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:07:48 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:07:48 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:08:14 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:08:14 GMT engine:socket packet
+Tue, 02 Jan 2018 18:08:14 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:08:14 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:08:14 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:08:14 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:08:39 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:08:39 GMT engine:socket packet
+Tue, 02 Jan 2018 18:08:39 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:08:39 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:08:39 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:08:39 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:09:04 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:09:04 GMT engine:socket packet
+Tue, 02 Jan 2018 18:09:04 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:09:04 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:09:04 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:09:04 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:09:29 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:09:29 GMT engine:socket packet
+Tue, 02 Jan 2018 18:09:29 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:09:29 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:09:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:09:29 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:09:54 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:09:54 GMT engine:socket packet
+Tue, 02 Jan 2018 18:09:54 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:09:54 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:09:54 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:09:54 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:10:19 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:10:19 GMT engine:socket packet
+Tue, 02 Jan 2018 18:10:19 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:10:19 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:10:19 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:10:19 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:10:44 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:10:44 GMT engine:socket packet
+Tue, 02 Jan 2018 18:10:44 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:10:44 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:10:44 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:10:44 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:11:09 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:11:09 GMT engine:socket packet
+Tue, 02 Jan 2018 18:11:09 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:11:09 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:11:09 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:11:09 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:11:34 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:11:34 GMT engine:socket packet
+Tue, 02 Jan 2018 18:11:34 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:11:34 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:11:34 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:11:34 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:11:59 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:11:59 GMT engine:socket packet
+Tue, 02 Jan 2018 18:11:59 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:11:59 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:11:59 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:11:59 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:12:24 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:12:24 GMT engine:socket packet
+Tue, 02 Jan 2018 18:12:24 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:12:24 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:12:24 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:12:24 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:12:49 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:12:49 GMT engine:socket packet
+Tue, 02 Jan 2018 18:12:49 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:12:49 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:12:49 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:12:49 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:13:14 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:13:14 GMT engine:socket packet
+Tue, 02 Jan 2018 18:13:14 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:13:14 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:13:14 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:13:14 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:13:39 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:13:39 GMT engine:socket packet
+Tue, 02 Jan 2018 18:13:39 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:13:39 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:13:39 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:13:39 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:14:04 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:14:04 GMT engine:socket packet
+Tue, 02 Jan 2018 18:14:04 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:14:04 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:14:04 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:14:04 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:14:29 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:14:29 GMT engine:socket packet
+Tue, 02 Jan 2018 18:14:29 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:14:29 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:14:29 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:14:29 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:14:54 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:14:54 GMT engine:socket packet
+Tue, 02 Jan 2018 18:14:54 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:14:54 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:14:54 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:14:54 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:15:19 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:15:19 GMT engine:socket packet
+Tue, 02 Jan 2018 18:15:19 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:15:19 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:15:19 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:15:19 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:15:44 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:15:44 GMT engine:socket packet
+Tue, 02 Jan 2018 18:15:44 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:15:44 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:15:44 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:15:44 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:16:09 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:16:09 GMT engine:socket packet
+Tue, 02 Jan 2018 18:16:09 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:16:09 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:16:09 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:16:09 GMT engine:ws writing "3"
+Tue, 02 Jan 2018 18:16:34 GMT engine:ws received "2"
+Tue, 02 Jan 2018 18:16:34 GMT engine:socket packet
+Tue, 02 Jan 2018 18:16:34 GMT engine:socket got ping
+Tue, 02 Jan 2018 18:16:34 GMT engine:socket sending packet "pong" (undefined)
+Tue, 02 Jan 2018 18:16:34 GMT engine:socket flushing buffer to transport
+Tue, 02 Jan 2018 18:16:34 GMT engine:ws writing "3"
