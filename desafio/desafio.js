@@ -6,7 +6,7 @@ const path = require('path');
 // Funçao simples de gerenciamento a rotas.
 const rotear = function(pathname){
   if (pathname && pathname !== '/') {
-    const arquivo = path.join(__dirname, `${arquivo}.html`);
+    const arquivo = path.join(__dirname, `${pathname}.html`);
     const existe = fs.existsSync(arquivo);
     if (existe) {
       return arquivo;

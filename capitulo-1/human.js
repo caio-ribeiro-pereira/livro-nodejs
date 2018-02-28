@@ -1,3 +1,1 @@
-exports.hello = (msg) => {
-  console.log(msg);
-};
+exports.hello =(msg) =>{console.log(msg);};

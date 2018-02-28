@@ -1,5 +1,5 @@
-const hello = require('./hello');
-const human = require('./human');
+const hello = require('./hello.js');
+const human = require('./human.js');
 
 hello('Olá pessoal!');
-human.hello('Olá galera!');
+human.hello('Olá gente!');
