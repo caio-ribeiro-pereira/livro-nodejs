@@ -1,9 +1,11 @@
 const fs = require('fs');
+
 const leituraAsync = (arquivo) => {
   console.log('Fazendo leitura assíncrona');
-  const inicio = new Date().getTime();
-  fs.readFile(arquivo);
-  const fim = new Date().getTime();
-  console.log(`Bloqueio assíncrono: ${fim - inicio}ms`);
+  console.time('Bloqueio assíncrono');
+  // Função callback vazia apenas para testar bloqueio assíncrono
+  fs.readFile(arquivo, () => {});
+  console.timeEnd('Bloqueio assíncrono');
 };
+
 module.exports = leituraAsync;

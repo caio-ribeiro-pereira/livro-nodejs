@@ -1,9 +1,10 @@
 const fs = require('fs');
+
 const leituraSync = (arquivo) => {
   console.log('Fazendo leitura síncrona');
-  const inicio = new Date().getTime();
+  console.time('Bloqueio síncrono');
   fs.readFileSync(arquivo);
-  const fim = new Date().getTime();
-  console.log(`Bloqueio síncrono: ${fim - inicio}ms`);
+  console.timeEnd('Bloqueio síncrono');
 };
+
 module.exports = leituraSync;
