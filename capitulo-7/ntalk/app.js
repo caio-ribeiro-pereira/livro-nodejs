@@ -8,12 +8,10 @@ const cookie = require('cookie');
 const expressSession = require('express-session');
 const methodOverride = require('method-override');
 const mongoose = require('mongoose');
-const bluebird = require('bluebird');
 const config = require('./config');
 const error = require('./middlewares/error');
 
-mongoose.Promise = bluebird;
-global.db = mongoose.connect('mongodb://localhost:27017/ntalk', { useMongoClient: true });
+mongoose.connect('mongodb://localhost:27017/ntalk');
 
 const app = express();
 const server = http.Server(app);
