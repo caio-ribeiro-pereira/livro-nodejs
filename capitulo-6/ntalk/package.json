@@ -7,13 +7,13 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "body-parser": "1.17.1",
-    "consign": "0.1.5",
-    "cookie": "0.3.1",
+    "body-parser": "1.19.0",
+    "consign": "0.1.6",
+    "cookie": "0.4.1",
     "ejs": "3.1.6",
     "express": "4.17.1",
-    "express-session": "1.15.3",
-    "method-override": "2.3.9",
-    "socket.io": "2.0.3"
+    "express-session": "1.17.2",
+    "method-override": "3.0.0",
+    "socket.io": "4.2.0"
   }
 }
