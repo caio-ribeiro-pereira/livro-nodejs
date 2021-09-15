@@ -8,21 +8,20 @@
     "test": "NODE_ENV=test mocha test/**/*.js"
   },
   "dependencies": {
-    "bluebird": "3.5.1",
-    "body-parser": "1.17.1",
-    "consign": "0.1.5",
-    "cookie": "0.3.1",
-    "ejs": "2.5.6",
-    "express": "4.15.2",
-    "express-session": "1.15.3",
-    "method-override": "2.3.9",
-    "mongoose": "4.12.1",
-    "redis": "2.8.0",
-    "socket.io": "2.0.3"
+    "body-parser": "1.19.0",
+    "consign": "0.1.6",
+    "cookie": "0.4.1",
+    "ejs": "3.1.6",
+    "express": "4.17.1",
+    "express-session": "1.17.2",
+    "method-override": "3.0.0",
+    "mongoose": "6.0.6",
+    "redis": "3.1.2",
+    "socket.io": "4.2.0"
   },
   "devDependencies": {
-    "mocha": "4.1.0",
-    "should": "13.2.0",
-    "supertest": "3.0.0"
+    "mocha": "9.1.1",
+    "should": "13.2.3",
+    "supertest": "6.1.6"
   }
 }

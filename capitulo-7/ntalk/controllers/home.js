@@ -12,7 +12,9 @@ module.exports = (app) => {
       const set = {
         $setOnInsert: { email, nome, contatos: [] }
       };
-      const options = { upsert: true, new: true };
+      const options = {
+        upsert: true, runValidators: true, new: true
+      };
       try {
         const usuario = await Usuario
           .findOneAndUpdate(where, set, options)

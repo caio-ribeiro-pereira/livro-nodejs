@@ -1,4 +1,4 @@
-<% include ../header %>
+<%- include('../header'); %>
 <script src="/socket.io/socket.io.js"></script>
 <script>
   const socket = io();
@@ -20,5 +20,5 @@
   <input type="text" id="msg" placeholder="Mensagem">
   <button onclick="enviar();">Enviar</button>
 </section>
-<% include ../exit %>
-<% include ../footer %>
+<%- include('../exit'); %>
+<%- include('../footer'); %>
