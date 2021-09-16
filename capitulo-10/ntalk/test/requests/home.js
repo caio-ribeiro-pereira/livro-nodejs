@@ -31,8 +31,8 @@ describe('No controller home', () => {
     request.post('/entrar')
       .send({ usuario })
       .end((err, res) => {
-      res.headers.location.should.eql('/');
-      done();
-    });
+        res.headers.location.should.eql('/');
+        done();
+      });
   });
 });

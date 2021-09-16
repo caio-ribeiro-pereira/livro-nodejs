@@ -1,5 +1,5 @@
-const db = require('../libs/db.js');
-const Schema = require('mongoose').Schema;
+const mongoose = require('mongoose');
+const { Schema } = mongoose;
 
 module.exports = () => {
   const contato = Schema({
@@ -18,5 +18,5 @@ module.exports = () => {
     },
     contatos: [contato]
   });
-  return db.model('usuarios', usuario);
+  return mongoose.model('usuarios', usuario);
 };

@@ -16,7 +16,9 @@
   socket.on('new-message', (data) => {
     const chat = document.getElementById(`chat_${data.email}`);
     if (chat.href.includes('?sala=')) {
-      chat.href = chat.href.replace(/\?sala=[\w]+/, `?sala=${data.sala}`);
+      const matcher = /\?sala=[\w]+/;
+      const replace = `?sala=${data.sala}`;
+      chat.href = chat.href.replace(matcher, replace);
     } else {
       chat.href += `?sala=${data.sala}`;
     }

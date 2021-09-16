@@ -1,4 +1,4 @@
-<% include ../header %>
+<%- include('../header'); %>
 <header>
   <h1>Ntalk</h1>
   <h4>Bem-vindo!</h4>
@@ -6,11 +6,13 @@
 <section>
   <form action="/entrar" method="post">
     <input type="hidden" name="_csrf" value="<%- _csrf %>">
-    <input type="text" name="usuario[nome]" placeholder="Nome">
+    <input type="text" name="usuario[nome]" 
+      placeholder="Nome">
     <br>
-    <input type="text" name="usuario[email]" placeholder="Email">
+    <input type="text" name="usuario[email]" 
+      placeholder="E-mail">
     <br>
     <button type="submit">Entrar</button>
   </form>
 </section>
-<% include ../footer %>
+<%- include('../footer'); %>

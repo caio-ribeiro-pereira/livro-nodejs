@@ -6,18 +6,25 @@ const consign = require('consign');
 const bodyParser = require('body-parser');
 const cookie = require('cookie');
 const csurf = require('csurf');
-const compression = require('compression')
+const compression = require('compression');
 const expressSession = require('express-session');
 const methodOverride = require('method-override');
+const mongoose = require('mongoose');
+const redis = require('redis');
+const redisAdapter = require('socket.io-redis');
+const connectRedis = require('connect-redis');
 const config = require('./config');
 const error = require('./middlewares/error');
-const redisAdapter = require('socket.io-redis');
-const RedisStore = require('connect-redis')(expressSession)
+
+mongoose.connect(config.mongoDBURL);
 
 const app = express();
 const server = http.Server(app);
 const io = socketIO(server);
-const store = new RedisStore({ prefix: config.sessionKey });
+const RedisStore = connectRedis(expressSession);
+const store = new RedisStore({
+  client: redis.createClient(config.redis)
+});
 
 app.disable('x-powered-by');
 app.set('views', path.join(__dirname, 'views'));
@@ -36,7 +43,7 @@ app.use(methodOverride('_method'));
 app.use(
   express.static(
     path.join(__dirname, 'public'),
-    { maxAge: 3600000 }
+    config.cache
   )
 );
 app.use(csurf());
