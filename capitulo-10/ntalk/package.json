@@ -19,7 +19,7 @@
     "express-session": "1.17.2",
     "forever-monitor": "3.0.3",
     "method-override": "3.0.0",
-    "mongoose": "6.0.6",
+    "mongoose": "6.4.6",
     "redis": "3.1.2",
     "socket.io": "4.2.0",
     "socket.io-redis": "6.1.1"
